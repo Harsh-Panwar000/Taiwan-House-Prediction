@@ -1,6 +1,6 @@
 # Taiwan-House-Prediction
 
-The goal of this model is to predict the value of houses in Taiwan based on specific attributes **ALL ATTRIBUTES WERE USED EXCEPT LONGITUD, LATITUDE, HOUSE NUMBER AND TRANSACTION DATE**
+The goal of this model is to predict the value of houses in Taiwan based on specific attributes **ALL ATTRIBUTES WERE USED EXCEPT LONGITUDE, LATITUDE, HOUSE NUMBER AND TRANSACTION DATE**
 
 The accuracy of the model varies. The best accuracy tested was 70%
 
